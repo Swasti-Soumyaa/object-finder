@@ -1,0 +1,40 @@
+
+.heading
+{
+font-size: 27px;
+color: black;
+width: 100%;
+margin: 0px;
+background-color: rgb(88, 216, 255);
+}
+
+#status,#no-of-object,#result
+{
+font-size: 20px;
+color: black;
+background-color: palevioletred;
+
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px palevioletred;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+#inpu{
+    border: 2px solid lightblue;
+    padding: 2px 5px;
+    width: 200px;
+}
+
+
+
+
+
+
